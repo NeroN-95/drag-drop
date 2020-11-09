@@ -1,0 +1,14 @@
+.zone1{
+    width: 800px;
+    height: 200px;
+    border: 1px solid #fc1100
+}
+.zone2{
+    width: 800px;
+    height: 200px;
+    border: 1px solid #fc1100
+}
+img{
+   display: inline-block;
+   max-height: 200px;
+}
